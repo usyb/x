@@ -18,7 +18,9 @@ huggingface使用方法：
 
 说明：2、其他docker容器理论上通用，只要设置端口为7860即可
 
-变量设置
+
+
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 UUID： 默认 f0177922-2dcc-4c0f-819c-7b74b7bbbfac ，可选,建议更改
 
@@ -37,5 +39,9 @@ NEZHA_KEY： 哪吒 ， 可选
 NEZHA_PORT： 哪吒 ，默认443， 可选
 
 NEZHA_TLS： 哪吒TLS ，默认1,设置0关闭， 可选
+
+节点查看：
+
+![image](https://raw.githubusercontent.com/dsadsadsss/x-docker/main/jiedian.PNG)
 
 
