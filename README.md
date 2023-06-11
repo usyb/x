@@ -10,8 +10,9 @@ huggingface使用方法：
 
 方法二：
 
-huggingface建立一个空白docer空间，把本仓库所有文件上传，接着设置变量即可
+进入https://huggingface.co/new-space ，选docker>>blank,创建空白空间
 
+然后把本仓库除readme以外的2个文件上传，接着设置变量即可
 
 说明：1、设置里设置public才能在外网访问
 
