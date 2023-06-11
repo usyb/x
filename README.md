@@ -26,6 +26,8 @@ VMPATH：默认vm123456 ，可选
 
 VLPATH：默认vl123456 ，可选
 
+PORT：端口，默认7860 ，huggingface默认端口，不可更改，其他容器可以改，如果可以使用不建议更改
+
 TOK： Argo TOKEN 或 Json， 必须。方法查看：https://github.com/fscarmen2/X-for-Glitch
 
 DOMAIN： 隧道域名或套了CF的域名 ，必须。
