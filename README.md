@@ -54,4 +54,11 @@ PATR部署：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
 
+render部署：
+
+直接导入本库，设置好变量即可
+
+
+Koyeb部署：类同PATR，其实docker容器部署都差不多，就不一一列举了，请自行摸索尝试
+
 
