@@ -4,9 +4,7 @@ huggingface使用方法：
 
 只需2步操作
 
-第一步：进入https://huggingface.co/spaces/Donna11/tews
-
-       点击右上角Settings右边的三点选最后一项复制空间
+第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
 
 第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,官方域名最好套CF
 
