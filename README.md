@@ -1,12 +1,19 @@
-huggingface使用方法
+huggingface使用方法：
+
+方法一：
 
 只需2步操作
 
-第一步：点击右上角Settings右边的三点选最后一项复制空间
+第一步：进入https://huggingface.co/spaces/Donna11/tews
 
-第二步：点击Settings>New secrets设置变量
+       点击右上角Settings右边的三点选最后一项复制空间
 
-建议设置TOK和DOMAIN和UUID,官方域名最好套CF
+第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,官方域名最好套CF
+
+方法二：
+
+huggingface建立一个空白docer空间，把本仓库所有文件上传，接着设置变量即可
+
 
 说明：一、设置里设置public才能在外网访问
 
