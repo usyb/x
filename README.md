@@ -1,22 +1,27 @@
-Hugging Face 使用方法
-只需 2 步操作：
+huggingface使用方法
 
-第一步
-点击右上角的 "Settings"，然后点击右边的三个点，选择最后一项 "复制空间"。
-复制成功后，您可以进行下一步操作。
-第二步
-点击 "Settings"，然后选择 "New secrets" 进入变量设置页面。
+只需2步操作
 
-建议设置以下变量（可选），建议设置为 TOKEN 和 DOMAIN：
+第一步：点击右上角Settings右边的三点选最后一项复制空间
 
-UUID：默认为 f0177922-2dcc-4c0f-819c-7b74b7bbbfac，可选，建议更改。
-TOK：Argo TOKEN 或 JSON，必须。具体方法请参考：https://github.com/fscarmen2/X-for-Glitch。
-DOMAIN：隧道域名或套了 CloudFlare 的域名，必须。
-NEZHA_SERVER：哪吒，可选。
-NEZHA_KEY：哪吒，可选。
-NEZHA_PORT：哪吒，默认为 443，可选。
-NEZHA_TLS：哪吒 TLS，默认为 1，设置为 0 以关闭，可选。
-注意事项：
+第二步：点击Settings>New secrets设置变量,建议设置TOK和DOMAIN和UUID,官方域名套CF,当然也可以不设置，直接使用默认
 
-设置的变量需要设置为 "public" 才能在外网访问。
-其他 Docker 容器理论上通用，只要将端口设置为 7860 即可。
+说明：一、设置里设置public才能在外网访问
+
+说明：二、其他docker容器理论上通用，只要设置端口为7860即可
+
+变量设置
+
+UUID： 默认 f0177922-2dcc-4c0f-819c-7b74b7bbbfac ，可选,建议更改
+
+TOK： Argo TOKEN 或 Json， 必须。方法查看：https://github.com/fscarmen2/X-for-Glitch
+
+DOMAIN： 隧道域名或套了CF的域名 ，必须。
+
+NEZHA_SERVER： 哪吒 ，可选
+
+NEZHA_KEY： 哪吒 ， 可选
+
+NEZHA_PORT： 哪吒 ，默认443， 可选
+
+NEZHA_TLS： 哪吒TLS ，默认1,设置0关闭， 可选
