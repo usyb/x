@@ -7,7 +7,9 @@ huggingface使用方法：
 第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
 
 第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,官方域名最好套CF
+
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/fuzhi.PNG)
+
 方法二：
 
 进入https://huggingface.co/new-space ，选docker>>blank,创建空白空间
