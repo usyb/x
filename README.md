@@ -18,9 +18,7 @@ huggingface使用方法：
 
 说明：2、其他docker容器理论上通用，只要设置端口为7860即可
 
-
-
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+变量设置：
 
 UUID： 默认 f0177922-2dcc-4c0f-819c-7b74b7bbbfac ，可选,建议更改
 
