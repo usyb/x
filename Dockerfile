@@ -1,1 +1,1 @@
-FROM daxia2023/hug
+FROM daxia2023/hug:latest
