@@ -48,4 +48,10 @@ NEZHA_TLS： 哪吒TLS ，默认1,设置0关闭， 可选
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/jiedian.png)
 
+PATR部署：
+
+![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
+
+![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
+
 
