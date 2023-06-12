@@ -18,7 +18,7 @@ huggingface使用方法：
 
 说明：1、设置里设置public才能在外网访问
 
-说明：2、其他docker容器理论上通用，只要设置端口为7860即可
+说明：2、其他docker容器理论上通用，只要设置端口为7860即可，也可以改成其他容器指定的
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
 
