@@ -1,4 +1,12 @@
-huggingface使用方法：
+主要特点：
+
+1、小白0设置，高手也可以自由定制变量，所有变量都支持定制
+
+2、节点在日志和网页均可查看，粘贴到软件即可食用，高手可以随意更改
+
+3、采用aplne最小化，支持super守护进程
+
+一、huggingface使用方法：
 
 方法一：
 
@@ -6,7 +14,7 @@ huggingface使用方法：
 
 第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
 
-第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,官方域名最好套CF
+第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,如果使用官方域名最好套CF
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/fuzhi.PNG)
 
@@ -48,21 +56,21 @@ NEZHA_TLS： 哪吒TLS ，默认1,设置0关闭， 可选
 
      huggingface官方端口为7860不能改（高手其实可以，小白不要动），其他指定端口的容器可以把端口改成需要的
 
-节点查看：
+节点查看：（小白专用，高手直接手动设置）
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/jiedian.png)
 
-PATR部署：
+二、PATR部署：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
 
-render部署：
+三、render部署：
 
 直接导入本库，设置好变量即可
 
 
-Koyeb部署：类同PATR，其实docker容器部署都差不多，就不一一列举了，请自行摸索尝试
+四、Koyeb部署：类同PATR，其实docker容器部署都差不多，就不一一列举了，请自行摸索尝试
 
 
