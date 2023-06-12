@@ -8,7 +8,9 @@
 
 4、可修改仓库的主页文件定制主页内容
 
-5、采用aplne最小化，支持super守护进程
+5、super与chatdog双进程守护
+
+6、采用aplne最小化，支持super守护进程
 
 一、huggingface使用方法：
 
