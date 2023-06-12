@@ -22,7 +22,7 @@ huggingface使用方法：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
 
-变量设置：
+变量建议设置：
 
 UUID： 默认 f0177922-2dcc-4c0f-819c-7b74b7bbbfac ，可选,建议更改
 
@@ -34,7 +34,7 @@ PORT：端口，默认7860 ，huggingface默认端口，不可更改，其他容
 
 TOK： Argo TOKEN 或 Json， 必须。方法查看：https://github.com/fscarmen2/X-for-Glitch
 
-DOMAIN： 隧道域名或套了CF的域名 ，必须。
+DOMAIN： 隧道域名或套了CF的域名 （DOMAIN填写只是为了小白粘贴节点方便，高手随意）。
 
 NEZHA_SERVER： 哪吒 ，可选
 
@@ -43,6 +43,10 @@ NEZHA_KEY： 哪吒 ， 可选
 NEZHA_PORT： 哪吒 ，默认443， 可选
 
 NEZHA_TLS： 哪吒TLS ，默认1,设置0关闭， 可选
+
+说明：这里面的所有变量都可以不改，也都可以改，只是为了小白提供了设置建议，高手随意改
+
+     huggingface官方端口为7860不能改（高手其实可以，小白不要动），其他指定端口的容器可以把端口改成需要的
 
 节点查看：
 
