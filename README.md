@@ -22,7 +22,7 @@
 
 进入https://huggingface.co/new-space ，选docker>>blank,创建空白空间
 
-然后把本仓库除readme和png图片以外的2个文件上传，接着设置变量即可
+然后把本仓库除readme和png图片以外的文件上传，接着设置变量即可
 
 说明：1、设置里设置public才能在外网访问
 
