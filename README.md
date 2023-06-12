@@ -50,9 +50,9 @@ TOK： Argo TOKEN 或 Json， 必须。方法查看：https://github.com/fscarme
 
 DOMAIN： 隧道域名或套了CF的域名 （DOMAIN填写只是为了小白粘贴节点方便，高手随意）。
 
-NEZHA_SERVER： 哪吒 ，可选
+NEZHA_SERVER： 哪吒 ，可选，有平台封杀，不需要最好不设置
 
-NEZHA_KEY： 哪吒 ， 可选
+NEZHA_KEY： 哪吒 ， 可选，有平台封杀，不需要最好不设置
 
 NEZHA_PORT： 哪吒 ，默认443， 可选
 
