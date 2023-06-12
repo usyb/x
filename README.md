@@ -10,7 +10,7 @@
 
 5、super与chatdog双进程守护
 
-6、采用aplne最小化，支持super守护进程
+6、采用aplne最小化
 
 一、huggingface使用方法：
 
