@@ -1,2 +1,2 @@
-FROM daxia2023/hug:latest
+FROM daxia2023/hug:v2
 COPY . .
