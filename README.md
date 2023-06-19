@@ -68,7 +68,7 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 节点查看：（小白专用，高手直接手动设置）
 
-![image](https://github.com/dsadsadsss/x-docker/blob/main/png/jiedian.png)
+日志中查看
 
 二、PATR部署：
 
