@@ -2,15 +2,13 @@
 
 1、小白0设置，高手也可以自由定制变量，所有变量都支持定制
 
-2、节点在日志和网页均可查看，粘贴到软件即可食用，高手可以随意更改
+2、节点在日志可看，粘贴到软件即可食用，高手可以随意更改
 
 3、进程名称与MD5值随机变化，每人都不一样
 
-4、可修改仓库的主页文件定制主页内容，可以上传升级程序,xray改名kano,argo改名cff，哪吒改为nez，上传到仓库根目录即可
+4、super与chatdog双进程守护
 
-5、super与chatdog双进程守护
-
-6、采用aplne最小化
+5、采用aplne最小化
 
 一、huggingface使用方法：
 
@@ -32,7 +30,7 @@
 
 说明：1、设置里设置public才能在外网访问
 
-说明：2、其他docker容器理论上通用，只要设置端口为7860即可，也可以改成其他容器指定的，然后设置PORT变量即可
+说明：2、其他docker容器理论上通用，PORT变量根据需要设置，建议有root权限的容器使用root分支
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
 
