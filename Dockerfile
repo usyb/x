@@ -1,2 +1,2 @@
-FROM daxia2023/hug:v2
+FROM daxia2023/hugmin:user3
 COPY . .
