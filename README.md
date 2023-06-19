@@ -60,8 +60,6 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 说明：这里面的所有变量都可以不改，也都可以改，只是为了小白提供了设置建议，高手随意改
 
-     huggingface官方端口为7860不能改（高手其实可以，小白不要动），其他指定端口的容器可以把端口改成需要的
-
 二、PATR部署：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
