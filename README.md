@@ -54,6 +54,8 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
 
+![image](https://github.com/dsadsadsss/x-docker/blob/main/png/fuzhi.PNG)
+
 第二步：设置UUID、VMPATH,VLPATH,PW、TOK、URL变量，最好不要哪吒，其他变量默认即可
 
 说明：1、设置里设置public才能在外网访问
