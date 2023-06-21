@@ -1,4 +1,4 @@
-主要特点：
+一、主要特点：
 
 1、节点在日志可看，粘贴到软件即可食用，高手可以随意更改
 
@@ -8,7 +8,7 @@
 
 4、采用Apline最小化
 
-变量建议设置：
+二、变量建议设置：
 
 PW  :启动密码，必须，否则无法启动
 
@@ -36,12 +36,8 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 说明：这里面的所有变量都可以不改，也都可以改，只是为了小白提供了设置建议，高手随意改
 
-二、PATR部署：
+三、以PATR为例部署，其他可以参考：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
-
-三、节点不通的可能原因：默认节点套CF的，所以可以换CF优选IP试试，或者你的PATH设置有问题，或者更换客户端试试
-
-
