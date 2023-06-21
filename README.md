@@ -62,4 +62,3 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 说明：2、其他docker容器理论上通用，只要设置端口为7860即可，也可以改成其他容器指定的，然后设置PORT变量即可
 
-![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
