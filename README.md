@@ -36,8 +36,12 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 说明：这里面的所有变量都可以不改，也都可以改，只是为了小白提供了设置建议，高手随意改
 
-三、以PATR为例部署，其他可以参考：
+三、PATR部署，其他可以参考：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
+
+四、render部署，其他可以参考：
+
+直接部署web，选择本仓库即可
