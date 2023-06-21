@@ -8,33 +8,10 @@
 
 4、采用Apline最小化
 
-一、huggingface使用方法：
-
-方法一：
-
-只需2步操作
-
-第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
-
-第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,如果使用官方域名最好套CF
-
-![image](https://github.com/dsadsadsss/x-docker/blob/main/png/fuzhi.PNG)
-
-方法二：
-
-进入https://huggingface.co/new-space ，选docker>>blank,创建空白空间
-
-然后把本仓库除readme和png图片以外的文件上传，接着设置变量即可
-
-说明：1、设置里设置public才能在外网访问
-
-说明：2、其他docker容器理论上通用，PORT变量根据需要设置，建议有root权限的容器使用root分支
-
-![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
 
 变量建议设置：
 
-PW  :镜像密码，必须，否则无法启动
+PW  :启动密码，必须，否则无法启动
 
 UUID： 默认 f0177922-2dcc-4c0f-819c-7b74b7bbbfac ，可选,建议更改
 
@@ -68,11 +45,6 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 三、render部署：
 
-直接导入本库，设置好变量即可
-
-
-四、Koyeb部署：类同PATR，其实docker容器部署都差不多，就不一一列举了，请自行摸索尝试
-
-五、节点不通的可能原因：默认节点套CF的，所以可以换CF优选IP试试，或者你的PATH设置有问题，或者更换客户端试试
+四、节点不通的可能原因：默认节点套CF的，所以可以换CF优选IP试试，或者你的PATH设置有问题，或者更换客户端试试
 
 
