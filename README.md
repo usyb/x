@@ -8,7 +8,6 @@
 
 4、采用Apline最小化
 
-
 变量建议设置：
 
 PW  :启动密码，必须，否则无法启动
@@ -43,8 +42,6 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
 
-三、render部署：
-
-四、节点不通的可能原因：默认节点套CF的，所以可以换CF优选IP试试，或者你的PATH设置有问题，或者更换客户端试试
+三、节点不通的可能原因：默认节点套CF的，所以可以换CF优选IP试试，或者你的PATH设置有问题，或者更换客户端试试
 
 
