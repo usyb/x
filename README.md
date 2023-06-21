@@ -36,12 +36,30 @@ URL  :伪装的主页，默认www.aifure.com，建议更改
 
 说明：这里面的所有变量都可以不改，也都可以改，只是为了小白提供了设置建议，高手随意改
 
-三、PATR部署，其他可以参考：
+三、常见容器平台部署方法：
+
+1、PATR部署，其他可以参考：
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr1.PNG)
 
 ![image](https://github.com/dsadsadsss/x-docker/blob/main/png/patr2.PNG)
 
-四、render部署，其他可以参考：
+2、render部署，其他可以参考：
 
 直接部署web，选择本仓库即可
+
+3、huggingface部署，其他可以参考 ：
+
+只需2步操作
+
+第一步：进入https://huggingface.co/spaces/Donna11/tews ，点击右上角Settings右边的三点选最后一项复制空间
+
+第二步：点击Settings>New secrets设置变量，建议设置TOK和DOMAIN和UUID,如果使用官方域名最好套CF
+
+![image](https://github.com/dsadsadsss/x-docker/blob/main/png/fuzhi.PNG)
+
+说明：1、设置里设置public才能在外网访问
+
+说明：2、其他docker容器理论上通用，只要设置端口为7860即可，也可以改成其他容器指定的，然后设置PORT变量即可
+
+![image](https://github.com/dsadsadsss/x-docker/blob/main/png/space.png)
